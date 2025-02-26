@@ -1,8 +1,0 @@
-
-{
-    "java.project.referencedLibraries": [
-        "lib/json-20210307.jar"
-    ]
-}
-//file นี้เป็นนี้เป็นการตั้งค่าสำหรับ VS Code ให้ใช้ ไลบรารี JSON ที่อยู่ในไฟล์ json-20210307.jar ค่ะ
-//ตอน test หนูใส่ file เอาไว้ใน file .vscode ค่ะ แต่พอ upload ขึ้น github มันขึ้น hidden หนูเลยเอาตัว code ใน file นี้มาแสดงให้ดูแทนค่ะ
